@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    
     <Grid>
-
+        <Button Name="btn1" Width="30" Background="Aqua" Click="btn1_Click"></Button>
     </Grid>
 </Window>
